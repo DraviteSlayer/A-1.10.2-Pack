@@ -1,0 +1,108 @@
+key_key.attack:-100:NONE
+key_key.use:-99:NONE
+key_key.forward:17:NONE
+key_key.left:30:NONE
+key_key.back:31:NONE
+key_key.right:32:NONE
+key_key.jump:57:NONE
+key_key.sneak:42:NONE
+key_key.sprint:29:NONE
+key_key.drop:16:NONE
+key_key.inventory:18:NONE
+key_key.chat:20:NONE
+key_key.playerlist:15:NONE
+key_key.pickItem:-98:NONE
+key_key.command:53:NONE
+key_key.screenshot:60:NONE
+key_key.togglePerspective:63:NONE
+key_key.smoothCamera:0:NONE
+key_key.fullscreen:87:NONE
+key_key.spectatorOutlines:0:NONE
+key_key.swapHands:33:NONE
+key_key.hotbar.1:2:NONE
+key_key.hotbar.2:3:NONE
+key_key.hotbar.3:4:NONE
+key_key.hotbar.4:5:NONE
+key_key.hotbar.5:6:NONE
+key_key.hotbar.6:7:NONE
+key_key.hotbar.7:8:NONE
+key_key.hotbar.8:9:NONE
+key_key.hotbar.9:10:NONE
+key_ALT Key:56:NONE
+key_Boost Key:29:NONE
+key_Mode Switch Key:181:NONE
+key_Side Inventory Key:46:NONE
+key_Hub Expand Key:45:NONE
+key_key.personalBackpack:48:NONE
+key_BloodMagic.keybind.open_holding:35:NONE
+key_BloodMagic.keybind.cycle_holding_pos:13:SHIFT
+key_BloodMagic.keybind.cycle_holding_neg:12:SHIFT
+key_MoCreatures Dive:71:NONE
+key_MoCreatures GUI:100:NONE
+key_enderio.keybind.glidertoggle:34:NONE
+key_enderio.keybind.soundlocator:38:NONE
+key_enderio.keybind.nightvision:25:NONE
+key_enderio.keybind.gogglesofrevealing:0:NONE
+key_enderio.keybind.stepassist:0:NONE
+key_enderio.keybind.speed:0:NONE
+key_enderio.keybind.jump:0:NONE
+key_enderio.keybind.top:0:NONE
+key_enderio.keybind.yetawrenchmode:21:NONE
+key_enderio.keybind.magnet:0:NONE
+key_enderio.keybind.fovreset:0:NONE
+key_enderio.keybind.fovplus:0:NONE
+key_enderio.keybind.fovminus:0:NONE
+key_enderio.keybind.fovplusfast:0:NONE
+key_enderio.keybind.fovminusfast:0:NONE
+key_Gravi Fly Key:33:NONE
+key_jet_packs_switch_hover:35:NONE
+key_jet_packs_open_settings:25:NONE
+key_key.open_menu:72:NONE
+key_key.jei.toggleOverlay:24:CONTROL
+key_key.jei.focusSearch:33:CONTROL
+key_key.jei.showRecipe:19:NONE
+key_key.jei.showUses:22:NONE
+key_key.jei.recipeBack:14:NONE
+key_key.jei.toggleCheatMode:0:NONE
+key_keybind.baublesinventory:48:NONE
+key_key.placeItem:25:NONE
+key_key.toolConfig:46:NONE
+key_key.toolProfileChange:43:NONE
+key_waila.keybind.wailaconfig:82:NONE
+key_waila.keybind.wailadisplay:79:NONE
+key_waila.keybind.liquid:80:NONE
+key_waila.keybind.recipe:81:NONE
+key_waila.keybind.usage:75:NONE
+key_invtweaks.key.sort:19:NONE
+key_Mekanism Item Mode Switch:55:NONE
+key_Mekanism Armor Mode Switch:33:NONE
+key_Mekanism Voice:22:NONE
+key_key.metamorph.action:47:NONE
+key_key.metamorph.menu:48:NONE
+key_key.metamorph.morph.next:27:NONE
+key_key.metamorph.morph.prev:26:NONE
+key_key.metamorph.morph.select:28:NONE
+key_key.metamorph.morph.demorph:52:NONE
+key_key.materialCosts:56:NONE
+key_key.clipboardPaste:210:NONE
+key_pe.key.armor_toggle:45:NONE
+key_pe.key.charge:47:NONE
+key_pe.key.extra_function:46:NONE
+key_pe.key.fire_projectile:19:NONE
+key_pe.key.mode:34:NONE
+key_key.quantumflux.magnet:74:NONE
+key_key.porterNextDestination:27:NONE
+key_key.porterPrevDestination:26:NONE
+key_keys.techreborn.config:25:NONE
+key_key.craftingGrid:46:NONE
+key_keybind.railcraft.loco.reverse:53:ALT
+key_keybind.railcraft.loco.faster:52:ALT
+key_keybind.railcraft.loco.slower:51:ALT
+key_keybind.railcraft.loco.mode:50:ALT
+key_keybind.railcraft.loco.whistle:49:ALT
+key_key.minimap.voxelmapmenu:50:NONE
+key_key.minimap.waypointmenu:0:NONE
+key_key.minimap.zoom:44:NONE
+key_key.minimap.togglefullscreen:45:NONE
+key_key.minimap.waypointhotkey:49:NONE
+key_key.minimap.togglemobs:0:NONE
