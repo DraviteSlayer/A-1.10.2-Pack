@@ -1,0 +1,424 @@
+[
+  {
+    "uuid": "a392d150-5f1c-40b4-b812-0f31cffab1b2",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "a392d150-5f1c-40b4-b812-0f31cffab1b2",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "a392d150-5f1c-40b4-b812-0f31cffab1b2": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "uuid": "b14c7b3c-74d8-4b16-a878-20c39f94abec",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "b14c7b3c-74d8-4b16-a878-20c39f94abec",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "b14c7b3c-74d8-4b16-a878-20c39f94abec": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "uuid": "2d918447-0d88-49b1-aaed-5beea1eb9996",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "2d918447-0d88-49b1-aaed-5beea1eb9996",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "2d918447-0d88-49b1-aaed-5beea1eb9996": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "uuid": "2df6d411-7cdc-4cbf-9a55-7bb574e2ddae",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "2df6d411-7cdc-4cbf-9a55-7bb574e2ddae",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "2df6d411-7cdc-4cbf-9a55-7bb574e2ddae": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "uuid": "28d19a44-6d7c-4a85-95e7-3d45e6e9544e",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "28d19a44-6d7c-4a85-95e7-3d45e6e9544e",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "28d19a44-6d7c-4a85-95e7-3d45e6e9544e": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "uuid": "cd0bfa24-bb21-49d0-8423-9071e0e4bfb9",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "cd0bfa24-bb21-49d0-8423-9071e0e4bfb9",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "cd0bfa24-bb21-49d0-8423-9071e0e4bfb9": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "uuid": "a964e1c0-717b-4025-9454-29362eae9e7e",
+    "name": "oryfoxer",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "a964e1c0-717b-4025-9454-29362eae9e7e",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "a964e1c0-717b-4025-9454-29362eae9e7e": [
+        1,
+        4,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        47,
+        0,
+        1,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "uuid": "a65742e7-fa16-40e3-800e-9245a3d64192",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "a65742e7-fa16-40e3-800e-9245a3d64192",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "a65742e7-fa16-40e3-800e-9245a3d64192": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "uuid": "a8760302-cfe0-4fdc-bfd0-3d00958b9e1f",
+    "name": "craftxbox",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "a8760302-cfe0-4fdc-bfd0-3d00958b9e1f",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "a8760302-cfe0-4fdc-bfd0-3d00958b9e1f": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "uuid": "3df8b291-480f-4e54-a3d9-b4dd23c7040d",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "3df8b291-480f-4e54-a3d9-b4dd23c7040d",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "3df8b291-480f-4e54-a3d9-b4dd23c7040d": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]
